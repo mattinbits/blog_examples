@@ -1,6 +1,6 @@
 #Mocking Akka Http Client
 
-See [http://www.mjlivesey.co.uk/2016/01/19/scalamock-akka-http-client.html]
+See http://www.mjlivesey.co.uk/2016/01/19/scalamock-akka-http-client.html
 
 Run with, e.g.
 
