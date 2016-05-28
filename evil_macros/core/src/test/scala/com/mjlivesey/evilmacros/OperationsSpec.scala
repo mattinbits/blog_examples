@@ -2,7 +2,6 @@ package com.mjlivesey.evilmacros
 
 import org.scalatest.{Matchers, WordSpec}
 
-
 class OperationsSpec extends WordSpec with Matchers {
 
   import Operations._
